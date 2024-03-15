@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "message": "Ok",
+    "data": {
+        "id": 10,
+        "receiptNumber": null,
+        "totalAmount": "28218721.00",
+        "receiptDate": "2024-03-13T15:33:43.000Z",
+        "customerName": "Test Agent",
+        "customerPhone": "02058888059",
+        "agentCode": "LTI0001",
+        "paymentMethod": "",
+        "address": "Dong Dok, Vientiane, Laos",
+        "status": "PAID",
+        "createdAt": "2024-03-13T15:33:43.000Z",
+        "updatedAt": "2024-03-13T16:01:43.000Z",
+        "items": [
+            {
+                "id": 50,
+                "receiptId": 10,
+                "itemName": "ປະກັນໄພລົດ",
+                "quantity": 4,
+                "pricePerQuantity": "0.00",
+                "totalPrice": "4715641.00"
+            },
+            {
+                "id": 51,
+                "receiptId": 10,
+                "itemName": "ປະກັນໄພລົດ",
+                "quantity": 11,
+                "pricePerQuantity": "0.00",
+                "totalPrice": "14543882.00"
+            },
+            {
+                "id": 52,
+                "receiptId": 10,
+                "itemName": "ປະກັນໄພລົດ",
+                "quantity": 3,
+                "pricePerQuantity": "0.00",
+                "totalPrice": "3736654.00"
+            },
+            {
+                "id": 53,
+                "receiptId": 10,
+                "itemName": "ປະກັນໄພລົດ",
+                "quantity": 1,
+                "pricePerQuantity": "0.00",
+                "totalPrice": "2460403.00"
+            },
+            {
+                "id": 54,
+                "receiptId": 10,
+                "itemName": "ປະກັນໄພລົດ",
+                "quantity": 1,
+                "pricePerQuantity": "0.00",
+                "totalPrice": "1592478.00"
+            },
+            {
+                "id": 55,
+                "receiptId": 10,
+                "itemName": "ປະກັນໄພລົດ",
+                "quantity": 1,
+                "pricePerQuantity": "0.00",
+                "totalPrice": "860763.00"
+            },
+            {
+                "id": 56,
+                "receiptId": 10,
+                "itemName": "ປະກັນໄພລົດ",
+                "quantity": 1,
+                "pricePerQuantity": "0.00",
+                "totalPrice": "308900.00"
+            }
+        ]
+    },
+    "error": null
+}
