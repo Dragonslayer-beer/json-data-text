@@ -4,6 +4,9 @@
         "currentPage": 1,
         "nextPage": 2,
         "previousPage": 0,
+        "fullname_agent" : "test",
+        "agentCode" : "asdasdas",
+        "year" : "asdasdas",
         "rows": [
             {
                 "rp_tax_fee": "1000",
