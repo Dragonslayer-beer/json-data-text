@@ -7,7 +7,7 @@
         "fullname_agent" : "test",
         "agentCode" : "asdasdas",
         "year" : "asdasdas",
-         "date": "asdasd",
+        "date" : "asdasd",
         "rows": [
             {
                 "rp_tax_fee": "1000",
