@@ -10,26 +10,26 @@
     "feeder": "test",
     "transformer": [
       {
-        "transformer": 1,
-  
+        "transformer_id": 1,
+        "transformer": "test",
         "nPost_size": "test",
         "nPost_total": "test"
       },
       {
-        "transformer_total": 2,
- 
+        "transformer_id": 2,
+        "transformer": "test",
         "nPost_size": "test",
         "nPost_total": "test"
       },
       {
-        "transformer_total": 3,
-    
+        "transformer_id": 3,
+        "transformer": "test",
         "nPost_size": "test",
         "nPost_total": "test"
       },
       {
-        "transformer_total": 4,
- 
+        "transformer_id": 4,
+        "transformer": "test",
         "nPost_size": "test",
         "nPost_total": "test"
       }
