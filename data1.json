@@ -1,92 +1,118 @@
 [
   {
-   "id": 1,
-  "stationCode": "test1",
-  "stationName": "test",
-  "stationName_En": "delectus aut autem",
-  "year": "test",
-  "startDate": "test",
-  "address": "test",
-  "feeder" : "test",
-   "transformer_total" : "1",
-  "transformer_size" : "test",
-  "nPost_qua" : "test",
-  "nPost_size" : "test",
-  "nPost_total" : "test"
-},
- {
-   "id": 2,
-  "stationCode": "test2",
-  "stationName": "test",
-  "stationName_En": "delectus aut autem",
-  "year": "test",
-  "startDate": "test",
-  "address": "test",
-  "feeder" : "test",
-   "transformer_total" : "1",
-  "transformer_size" : "test",
-  "nPost_qua" : "test",
-  "nPost_size" : "test",
-  "nPost_total" : "test"
-},
- {
-   "id": 3,
-  "stationCode": "test3",
-  "stationName": "test",
-  "stationName_En": "delectus aut autem",
-  "year": "test",
-  "startDate": "test",
-  "address": "test",
-  "feeder" : "test",
-   "transformer_total" : "1",
-  "transformer_size" : "test",
-  "nPost_qua" : "test",
-  "nPost_size" : "test",
-  "nPost_total" : "test"
-},
- {
-   "id": 4,
-  "stationCode": "test4",
-  "stationName": "test",
-  "stationName_En": "delectus aut autem",
-  "year": "test",
-  "startDate": "test",
-  "address": "test",
-  "feeder" : "test",
-   "transformer_total" : "1",
-  "transformer_size" : "test",
-  "nPost_qua" : "test",
-  "nPost_size" : "test",
-  "nPost_total" : "test"
-},
- {
-   "id": 5,
-  "stationCode": "test5",
-  "stationName": "test",
-  "stationName_En": "delectus aut autem",
-  "year": "test",
-  "startDate": "test",
-  "address": "test",
-  "feeder" : "test",
-   "transformer_total" : "1",
-  "transformer_size" : "test",
-  "nPost_qua" : "test",
-  "nPost_size" : "test",
-  "nPost_total" : "test"
-},
- {
-   "id": 6,
-  "stationCode": "test6",
-  "stationName": "test",
-  "stationName_En": "delectus aut autem",
-  "year": "test",
-  "startDate": "test",
-  "address": "test",
-  "feeder" : "test",
-  "transformer_total" : "1",
-  "transformer_size" : "test",
-  "nPost_qua" : "test",
-  "nPost_size" : "test",
-  "nPost_total" : "test"
-}
+    "id": 1,
+    "stationCode": "test1",
+    "stationName": "test",
+    "stationName_En": "delectus aut autem",
+    "year": "test",
+    "startDate": "test",
+    "address": "test",
+    "feeder": "test",
+    "transformer_total": "1",
+    "transformer_size": "test",
+    "Equipment": [
+      {
+      "name": "FUSE",
+      "value": "10"
+      },
+      {
+        "name": "Transformer (TR)",
+      "value": "20"
+      },
+      {
+        "name": "CT & PT & kWh",
+      "value": "30"
+      }
+    ],
+    "nPost_size": "test",
+    "nPost_total": "test"
+  },
+   {
+    "id": 2,
+    "stationCode": "test1",
+    "stationName": "test",
+    "stationName_En": "delectus aut autem",
+    "year": "test",
+    "startDate": "test",
+    "address": "test",
+    "feeder": "test",
+    "transformer_total": "1",
+    "transformer_size": "test",
+    "Equipment": [
+      {
+      "name": "FUSE",
+      "value": "10"
+      },
+      {
+        "name": "Transformer (TR)",
+      "value": "20"
+      },
+      {
+        "name": "CT & PT & kWh",
+      "value": "30"
+      }
+    ],
+    "nPost_size": "test",
+    "nPost_total": "test"
+  }
+  ,
+   {
+    "id": 3,
+    "stationCode": "test1",
+    "stationName": "test",
+    "stationName_En": "delectus aut autem",
+    "year": "test",
+    "startDate": "test",
+    "address": "test",
+    "feeder": "test",
+    "transformer_total": "1",
+    "transformer_size": "test",
+    "Equipment": [
+      {
+      "name": "FUSE",
+      "value": "10"
+      },
+      {
+        "name": "Transformer (TR)",
+      "value": "20"
+      },
+      {
+        "name": "CT & PT & kWh",
+      "value": "30"
+      }
+    ],
+    "nPost_size": "test",
+    "nPost_total": "test"
+  }
+  ,
+   {
+    "id": 4,
+    "stationCode": "test1",
+    "stationName": "test",
+    "stationName_En": "delectus aut autem",
+    "year": "test",
+    "startDate": "test",
+    "address": "test",
+    "feeder": "test",
+    "transformer_total": "1",
+    "transformer_size": "test",
+    "Equipment": [
+      {
+      "name": "FUSE",
+      "value": "10"
+      },
+      {
+        "name": "Transformer (TR)",
+      "value": "20"
+      },
+      {
+        "name": "CT & PT & kWh",
+      "value": "30"
+      }
+    ],
+    "nPost_size": "test",
+    "nPost_total": "test"
+  }
+  
+  
 ]
