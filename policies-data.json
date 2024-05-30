@@ -8,6 +8,7 @@
         "agentCode" : "asdasdas",
         "year" : "asdasdas",
         "date" : "asdasd",
+        "icons" : "✓" ,
         "rows": [
             {
                 "rp_tax_fee": "1000",
