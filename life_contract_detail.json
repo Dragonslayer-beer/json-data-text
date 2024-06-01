@@ -54,14 +54,14 @@
   },
   "life_insurance_options": {
     "a_first": 1,
-    "a_second": 0,
-    "b_first": 0,
+    "a_second": 1,
+    "b_first": 1,
     "b_second": 1
   },
   "payment_detail": {
-    "pay_office": 0,
-    "pay_agent": 0,
-    "pay_bank": 0,
+    "pay_office": 1,
+    "pay_agent": 1,
+    "pay_bank": 1,
     "fees": "10.000 ກີບ",
     "bank_no": "099-110-001-219-976-001",
     "create_date": "10/10/2024",
