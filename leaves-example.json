@@ -1,0 +1,1004 @@
+{
+[
+  {
+    id: 1,
+    fullname: "John Doe",
+    division: "HR",
+    start_date: "2024-01-01",
+    end_date: "2024-01-05",
+    remark: "Annual leave",
+    total_day: 5,
+    leavestype: "Annual"
+  },
+  {
+    id: 2,
+    fullname: "Jane Smith",
+    division: "IT",
+    start_date: "2024-02-10",
+    end_date: "2024-02-12",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 3,
+    fullname: "Michael Brown",
+    division: "Finance",
+    start_date: "2024-03-15",
+    end_date: "2024-03-17",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 4,
+    fullname: "Emily Davis",
+    division: "Marketing",
+    start_date: "2024-04-20",
+    end_date: "2024-04-22",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 5,
+    fullname: "Daniel Miller",
+    division: "Sales",
+    start_date: "2024-05-05",
+    end_date: "2024-05-07",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 6,
+    fullname: "Sophia Wilson",
+    division: "HR",
+    start_date: "2024-06-10",
+    end_date: "2024-06-14",
+    remark: "Annual leave",
+    total_day: 5,
+    leavestype: "Annual"
+  },
+  {
+    id: 7,
+    fullname: "James Johnson",
+    division: "IT",
+    start_date: "2024-07-01",
+    end_date: "2024-07-05",
+    remark: "Personal leave",
+    total_day: 5,
+    leavestype: "Personal"
+  },
+  {
+    id: 8,
+    fullname: "Olivia Taylor",
+    division: "Finance",
+    start_date: "2024-08-15",
+    end_date: "2024-08-17",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 9,
+    fullname: "William Anderson",
+    division: "Marketing",
+    start_date: "2024-09-01",
+    end_date: "2024-09-03",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 10,
+    fullname: "Isabella Martinez",
+    division: "Sales",
+    start_date: "2024-10-10",
+    end_date: "2024-10-12",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 11,
+    fullname: "Alexander Harris",
+    division: "HR",
+    start_date: "2024-11-20",
+    end_date: "2024-11-22",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 12,
+    fullname: "Mia Lee",
+    division: "IT",
+    start_date: "2024-12-15",
+    end_date: "2024-12-17",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 13,
+    fullname: "Ethan Thomas",
+    division: "Finance",
+    start_date: "2024-01-03",
+    end_date: "2024-01-07",
+    remark: "Annual leave",
+    total_day: 5,
+    leavestype: "Annual"
+  },
+  {
+    id: 14,
+    fullname: "Ava Jackson",
+    division: "Marketing",
+    start_date: "2024-02-18",
+    end_date: "2024-02-20",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 15,
+    fullname: "Liam White",
+    division: "Sales",
+    start_date: "2024-03-25",
+    end_date: "2024-03-27",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 16,
+    fullname: "Emma Hall",
+    division: "HR",
+    start_date: "2024-04-08",
+    end_date: "2024-04-12",
+    remark: "Annual leave",
+    total_day: 5,
+    leavestype: "Annual"
+  },
+  {
+    id: 17,
+    fullname: "Noah Walker",
+    division: "IT",
+    start_date: "2024-05-19",
+    end_date: "2024-05-21",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 18,
+    fullname: "Sophia Young",
+    division: "Finance",
+    start_date: "2024-06-14",
+    end_date: "2024-06-16",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 19,
+    fullname: "Lucas King",
+    division: "Marketing",
+    start_date: "2024-07-28",
+    end_date: "2024-07-30",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 20,
+    fullname: "Harper Wright",
+    division: "Sales",
+    start_date: "2024-08-25",
+    end_date: "2024-08-27",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 21,
+    fullname: "Mason Hill",
+    division: "HR",
+    start_date: "2024-09-03",
+    end_date: "2024-09-05",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 22,
+    fullname: "Amelia Scott",
+    division: "IT",
+    start_date: "2024-10-01",
+    end_date: "2024-10-03",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 23,
+    fullname: "Logan Green",
+    division: "Finance",
+    start_date: "2024-11-10",
+    end_date: "2024-11-12",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 24,
+    fullname: "Ella Adams",
+    division: "Marketing",
+    start_date: "2024-12-01",
+    end_date: "2024-12-03",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 25,
+    fullname: "Jacob Baker",
+    division: "Sales",
+    start_date: "2024-01-12",
+    end_date: "2024-01-14",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 26,
+    fullname: "Avery Nelson",
+    division: "HR",
+    start_date: "2024-02-05",
+    end_date: "2024-02-07",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 27,
+    fullname: "Benjamin Carter",
+    division: "IT",
+    start_date: "2024-03-18",
+    end_date: "2024-03-20",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 28,
+    fullname: "Charlotte Mitchell",
+    division: "Finance",
+    start_date: "2024-04-15",
+    end_date: "2024-04-17",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 29,
+    fullname: "Henry Perez",
+    division: "Marketing",
+    start_date: "2024-05-20",
+    end_date: "2024-05-22",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 30,
+    fullname: "Chloe Roberts",
+    division: "Sales",
+    start_date: "2024-06-11",
+    end_date: "2024-06-13",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 31,
+    fullname: "Jack Turner",
+    division: "HR",
+    start_date: "2024-07-08",
+    end_date: "2024-07-10",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 32,
+    fullname: "Lily Phillips",
+    division: "IT",
+    start_date: "2024-08-18",
+    end_date: "2024-08-20",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 33,
+    fullname: "Daniel Campbell",
+    division: "Finance",
+    start_date: "2024-09-23",
+    end_date: "2024-09-25",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 34,
+    fullname: "Grace Parker",
+    division: "Marketing",
+    start_date: "2024-10-04",
+    end_date: "2024-10-06",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 35,
+    fullname: "Sebastian Evans",
+    division: "Sales",
+    start_date: "2024-11-15",
+    end_date: "2024-11-17",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 36,
+    fullname: "Victoria Edwards",
+    division: "HR",
+    start_date: "2024-12-22",
+    end_date: "2024-12-24",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 37,
+    fullname: "Owen Collins",
+    division: "IT",
+    start_date: "2024-01-29",
+    end_date: "2024-01-31",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 38,
+    fullname: "Eleanor Stewart",
+    division: "Finance",
+    start_date: "2024-02-24",
+    end_date: "2024-02-26",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 39,
+    fullname: "Elijah Morris",
+    division: "Marketing",
+    start_date: "2024-03-05",
+    end_date: "2024-03-07",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 40,
+    fullname: "Zoe Rogers",
+    division: "Sales",
+    start_date: "2024-04-09",
+    end_date: "2024-04-11",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 41,
+    fullname: "Luke Cook",
+    division: "HR",
+    start_date: "2024-05-14",
+    end_date: "2024-05-16",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 42,
+    fullname: "Sofia Rogers",
+    division: "IT",
+    start_date: "2024-06-18",
+    end_date: "2024-06-20",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 43,
+    fullname: "Matthew Bell",
+    division: "Finance",
+    start_date: "2024-07-22",
+    end_date: "2024-07-24",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 44,
+    fullname: "Lily Cox",
+    division: "Marketing",
+    start_date: "2024-08-11",
+    end_date: "2024-08-13",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 45,
+    fullname: "Isaac Diaz",
+    division: "Sales",
+    start_date: "2024-09-17",
+    end_date: "2024-09-19",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 46,
+    fullname: "Hannah Ward",
+    division: "HR",
+    start_date: "2024-10-27",
+    end_date: "2024-10-29",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 47,
+    fullname: "Gabriel Phillips",
+    division: "IT",
+    start_date: "2024-11-06",
+    end_date: "2024-11-08",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 48,
+    fullname: "Stella Howard",
+    division: "Finance",
+    start_date: "2024-12-16",
+    end_date: "2024-12-18",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 49,
+    fullname: "Aiden Fisher",
+    division: "Marketing",
+    start_date: "2024-01-10",
+    end_date: "2024-01-12",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 50,
+    fullname: "Scarlett James",
+    division: "Sales",
+    start_date: "2024-02-25",
+    end_date: "2024-02-27",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 51,
+    fullname: "Julian Wood",
+    division: "HR",
+    start_date: "2024-03-07",
+    end_date: "2024-03-09",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 52,
+    fullname: "Victoria Peterson",
+    division: "IT",
+    start_date: "2024-04-18",
+    end_date: "2024-04-20",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 53,
+    fullname: "Mason Gray",
+    division: "Finance",
+    start_date: "2024-05-23",
+    end_date: "2024-05-25",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 54,
+    fullname: "Ella Bennett",
+    division: "Marketing",
+    start_date: "2024-06-02",
+    end_date: "2024-06-04",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 55,
+    fullname: "Oliver Torres",
+    division: "Sales",
+    start_date: "2024-07-21",
+    end_date: "2024-07-23",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 56,
+    fullname: "Ava Flores",
+    division: "HR",
+    start_date: "2024-08-16",
+    end_date: "2024-08-18",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 57,
+    fullname: "Caleb Rivera",
+    division: "IT",
+    start_date: "2024-09-19",
+    end_date: "2024-09-21",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 58,
+    fullname: "Mia Sanchez",
+    division: "Finance",
+    start_date: "2024-10-24",
+    end_date: "2024-10-26",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 59,
+    fullname: "James Hughes",
+    division: "Marketing",
+    start_date: "2024-11-14",
+    end_date: "2024-11-16",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 60,
+    fullname: "Amelia Bryant",
+    division: "Sales",
+    start_date: "2024-12-27",
+    end_date: "2024-12-29",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 61,
+    fullname: "Alexander Russell",
+    division: "HR",
+    start_date: "2024-01-13",
+    end_date: "2024-01-15",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 62,
+    fullname: "Lily Murphy",
+    division: "IT",
+    start_date: "2024-02-21",
+    end_date: "2024-02-23",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 63,
+    fullname: "Sebastian Thompson",
+    division: "Finance",
+    start_date: "2024-03-31",
+    end_date: "2024-04-02",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 64,
+    fullname: "Grace Foster",
+    division: "Marketing",
+    start_date: "2024-04-22",
+    end_date: "2024-04-24",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 65,
+    fullname: "Henry Brooks",
+    division: "Sales",
+    start_date: "2024-05-17",
+    end_date: "2024-05-19",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 66,
+    fullname: "Victoria Reed",
+    division: "HR",
+    start_date: "2024-06-25",
+    end_date: "2024-06-27",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 67,
+    fullname: "Jackson Kelly",
+    division: "IT",
+    start_date: "2024-07-09",
+    end_date: "2024-07-11",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 68,
+    fullname: "Charlotte Sanders",
+    division: "Finance",
+    start_date: "2024-08-04",
+    end_date: "2024-08-06",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 69,
+    fullname: "Benjamin Price",
+    division: "Marketing",
+    start_date: "2024-09-28",
+    end_date: "2024-09-30",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 70,
+    fullname: "Avery Jenkins",
+    division: "Sales",
+    start_date: "2024-10-15",
+    end_date: "2024-10-17",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 71,
+    fullname: "Liam Coleman",
+    division: "HR",
+    start_date: "2024-11-29",
+    end_date: "2024-12-01",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 72,
+    fullname: "Sofia Jenkins",
+    division: "IT",
+    start_date: "2024-12-19",
+    end_date: "2024-12-21",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 73,
+    fullname: "Jackson Miller",
+    division: "Finance",
+    start_date: "2024-01-16",
+    end_date: "2024-01-18",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 74,
+    fullname: "Evelyn Bailey",
+    division: "Marketing",
+    start_date: "2024-02-28",
+    end_date: "2024-03-01",
+    remark: "Personal leave",
+    total_day: 2,
+    leavestype: "Personal"
+  },
+  {
+    id: 75,
+    fullname: "Aiden Sanders",
+    division: "Sales",
+    start_date: "2024-03-24",
+    end_date: "2024-03-26",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 76,
+    fullname: "Scarlett Cooper",
+    division: "HR",
+    start_date: "2024-04-29",
+    end_date: "2024-05-01",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 77,
+    fullname: "Oliver Richardson",
+    division: "IT",
+    start_date: "2024-05-21",
+    end_date: "2024-05-23",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 78,
+    fullname: "Lily Collins",
+    division: "Finance",
+    start_date: "2024-06-26",
+    end_date: "2024-06-28",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 79,
+    fullname: "Ethan Bennett",
+    division: "Marketing",
+    start_date: "2024-07-12",
+    end_date: "2024-07-14",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 80,
+    fullname: "Harper Brooks",
+    division: "Sales",
+    start_date: "2024-08-14",
+    end_date: "2024-08-16",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 81,
+    fullname: "Mason Cooper",
+    division: "HR",
+    start_date: "2024-09-22",
+    end_date: "2024-09-24",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 82,
+    fullname: "Isabella Jenkins",
+    division: "IT",
+    start_date: "2024-10-10",
+    end_date: "2024-10-12",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 83,
+    fullname: "Lucas Russell",
+    division: "Finance",
+    start_date: "2024-11-25",
+    end_date: "2024-11-27",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 84,
+    fullname: "Charlotte Coleman",
+    division: "Marketing",
+    start_date: "2024-12-29",
+    end_date: "2024-12-31",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 85,
+    fullname: "Henry Bailey",
+    division: "Sales",
+    start_date: "2024-01-08",
+    end_date: "2024-01-10",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 86,
+    fullname: "Mia Murphy",
+    division: "HR",
+    start_date: "2024-02-13",
+    end_date: "2024-02-15",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 87,
+    fullname: "Alexander Mitchell",
+    division: "IT",
+    start_date: "2024-03-26",
+    end_date: "2024-03-28",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 88,
+    fullname: "Sophia Parker",
+    division: "Finance",
+    start_date: "2024-04-30",
+    end_date: "2024-05-02",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 89,
+    fullname: "Liam Ward",
+    division: "Marketing",
+    start_date: "2024-05-11",
+    end_date: "2024-05-13",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 90,
+    fullname: "Emma Richardson",
+    division: "Sales",
+    start_date: "2024-06-07",
+    end_date: "2024-06-09",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 91,
+    fullname: "James Cox",
+    division: "HR",
+    start_date: "2024-07-15",
+    end_date: "2024-07-17",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 92,
+    fullname: "Victoria Carter",
+    division: "IT",
+    start_date: "2024-08-03",
+    end_date: "2024-08-05",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 93,
+    fullname: "Caleb Turner",
+    division: "Finance",
+    start_date: "2024-09-16",
+    end_date: "2024-09-18",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 94,
+    fullname: "Olivia Campbell",
+    division: "Marketing",
+    start_date: "2024-10-20",
+    end_date: "2024-10-22",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 95,
+    fullname: "Michael Allen",
+    division: "Sales",
+    start_date: "2024-11-09",
+    end_date: "2024-11-11",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 96,
+    fullname: "Emily Patterson",
+    division: "HR",
+    start_date: "2024-12-12",
+    end_date: "2024-12-14",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 97,
+    fullname: "Matthew Barnes",
+    division: "IT",
+    start_date: "2024-01-05",
+    end_date: "2024-01-07",
+    remark: "Annual leave",
+    total_day: 3,
+    leavestype: "Annual"
+  },
+  {
+    id: 98,
+    fullname: "Sophia Edwards",
+    division: "Finance",
+    start_date: "2024-02-20",
+    end_date: "2024-02-22",
+    remark: "Personal leave",
+    total_day: 3,
+    leavestype: "Personal"
+  },
+  {
+    id: 99,
+    fullname: "Lucas Bennett",
+    division: "Marketing",
+    start_date: "2024-03-13",
+    end_date: "2024-03-15",
+    remark: "Sick leave",
+    total_day: 3,
+    leavestype: "Sick"
+  },
+  {
+    id: 100,
+    fullname: "Evelyn White",
+    division: "Sales",
+    start_date: "2024-12-10",
+    end_date: "2024-12-12",
+    remark: "Family emergency",
+    total_day: 3,
+    leavestype: "Emergency"
+  }
+];
+}
