@@ -1,4 +1,4 @@
-{
+
 [
   {
     id: 1,
@@ -1000,5 +1000,5 @@
     total_day: 3,
     leavestype: "Emergency"
   }
-];
-}
+]
+
