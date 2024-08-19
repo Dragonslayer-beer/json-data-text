@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "fullname": "John Doe",
+    "division": "HR",
+    "start_end_date": "2024-01-01",
+    "leavestype": "Sick Leave",
+    "leave_pattern": "ທົດລອງ",
+    "remark": "Medical leave",
+    "total_day": 3
+    
+  }
+
+]
