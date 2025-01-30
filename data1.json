@@ -1,130 +1,52 @@
-[
-  {
-    "id": 1,
-    "stationCode": "test1",
-    "stationName": "test",
-    "stationName_En": "delectus aut autem",
-    "year": "test",
-    "startDate": "test",
-    "address": "test",
-    "feeder": "test",
-    "transformer_total": "1",
-    "transformer_size": "test",
-    "Equipment": [
-      {
-      "id" : 1,
-      "name": "FUSE",
-      "value": "10"
-      },
-      {
-            "id" : 2,
-        "name": "Transformer (TR)",
-      "value": "20"
-      },
-      {
-            "id" : 3,
-        "name": "CT & PT & kWh",
-      "value": "30"
-      }
-    ],
-    "nPost_size": "test",
-    "nPost_total": "test"
-  },
-   {
-    "id": 2,
-    "stationCode": "test1",
-    "stationName": "test",
-    "stationName_En": "delectus aut autem",
-    "year": "test",
-    "startDate": "test",
-    "address": "test",
-    "feeder": "test",
-    "transformer_total": "1",
-    "transformer_size": "test",
-    "Equipment": [
-      {
-      "id" : 1,
-      "name": "FUSE",
-      "value": "10"
-      },
-      {
-            "id" : 2,
-        "name": "Transformer (TR)",
-      "value": "20"
-      },
-      {
-            "id" : 3,
-        "name": "CT & PT & kWh",
-      "value": "30"
-      }
-    ],
-    "nPost_size": "test",
-    "nPost_total": "test"
-  }
-  ,
-   {
-    "id": 3,
-    "stationCode": "test1",
-    "stationName": "test",
-    "stationName_En": "delectus aut autem",
-    "year": "test",
-    "startDate": "test",
-    "address": "test",
-    "feeder": "test",
-    "transformer_total": "1",
-    "transformer_size": "test",
-    "Equipment": [
-      {
-      "id" : 1,
-      "name": "FUSE",
-      "value": "10"
-      },
-      {
-            "id" : 2,
-        "name": "Transformer (TR)",
-      "value": "20"
-      },
-      {
-            "id" : 3,
-        "name": "CT & PT & kWh",
-      "value": "30"
-      }
-    ],
-    "nPost_size": "test",
-    "nPost_total": "test"
-  }
-  ,
-   {
-    "id": 4,
-    "stationCode": "test1",
-    "stationName": "test",
-    "stationName_En": "delectus aut autem",
-    "year": "test",
-    "startDate": "test",
-    "address": "test",
-    "feeder": "test",
-    "transformer_total": "1",
-    "transformer_size": "test",
-    "Equipment": [
-      {
-      "id" : 1,
-      "name": "FUSE",
-      "value": "10"
-      },
-      {
-            "id" : 2,
-        "name": "Transformer (TR)",
-      "value": "20"
-      },
-      {
-            "id" : 3,
-        "name": "CT & PT & kWh",
-      "value": "30"
-      }
-    ],
-    "nPost_size": "test",
-    "nPost_total": "test"
-  }
-  
-  
-]
+{
+    "data": [
+        {
+            "xref": "LSTK25012700000007",
+            "buyer": "L03183",
+            "transactionDate": "2025-01-26T19:44:15.000Z",
+            "paymentTypeId": "1",
+            "promotionId": null,
+            "promotionCode": null,
+            "paymentType": "ເງິນສົດ",
+            "cash": "2268500.00",
+            "cashcy": "LAK",
+            "transfer": "0.00",
+            "transferCcy": "LAK",
+            "rate": "650.00",
+            "total": 3490,
+            "seller": "Bouala Phongphanam",
+            "items": [
+                {
+                    "productId": 25,
+                    "productName": "Apple Love Drink",
+                    "decription": "ແອັບເປີ້ນເລີບດຣິງ ແລະ ເບີລີ່ເລີບດຣິງ ຄຸນປະໂຫຍດລວມ.ມີວິຕາມິນແຮ່ທາດ ແລະ ເສັ້ນໃຍອາຫານ,ມີສານຕ້ານອານຸມູນອິດສະຫລະສົ່ງຜົນ ດີຕໍ່ລະບົບການຂັບຖ່າຍ,ຊ່ວຍບຳລຸງຜີວພັນ,ບຳລຸງຜົມ,ບຳລຸງເລັບ,ລົດກີ່ນໂຕກີ່ນ ປາກ,ລົດໄຂມັນໃນເສັ້ນເລືອດສານສະກັດຈາກກະບອງເພັດ ເມລ໋ອນ ແອວກູຕ້າໄທໂອນ ໄຟເບີ ສານສະກັດຈາກສົ້ມແຂກ ແອວຄານິທິນ ບີທຣູດ ອີນູລິນ ທາເບີລີ້ ບູເບີລີ້ອີກດ້ວຍມີສ່ວນປະສົມ ຈາກ ທັນຍາພືດທີ່ມີປະ ໂຫຍດ ແລະ ຄຸນຄ່າຕໍ່ຮ່າງກາຍຄື:ສານສະກັດຈາກກະບອງເພັດ ເມລ໋ອນ ແອວກູຕ້າໄທໂອນ ໄຟເບີ ສານສະກັດຈາກສົ້ມແຂກ ແອວຄານິທິນ ບີທຣູດ ອີນູລິນ ທາເບີລີ້ ບູເບີລີ້",
+                    "originalPrice": 1800,
+                    "salePrice": 1800,
+                    "qty": 1,
+                    "productPoint": null,
+                    "productImg": "1737601514722-662422746.jpg"
+                },
+                {
+                    "productId": 27,
+                    "productName": "COCO Boom",
+                    "decription": "",
+                    "originalPrice": 1800,
+                    "salePrice": 1300,
+                    "qty": 1,
+                    "productPoint": null,
+                    "productImg": "1737531470985-140796405.jpg"
+                },
+                {
+                    "productId": 28,
+                    "productName": "Love Coffee Arabica",
+                    "decription": "ສ່ວນປະກອບສຳຄັນມີ \t\tຖົ່ວເຫລືອງ  \t\tArabica Coffee (ອາບີກ໋າຄ໋ອບຟີ່) \t\tInulin (ອິນນູລິນ) \t\tສານອາຫານຈາກໃບແປ໊ະກ້ວຍ   \t\tສານສະກັດຈາກຖົ່ວຂາວ \t\tສານສະກັດຈາກໂກຈິເບີລີ້ \t\tແອວກູຕ້າໄຮໂອນ \t\tຊູດຣາໂລດສ \t\tລູທີນ \t\tວິຕາມິນບີ 1  ບີ 2",
+                    "originalPrice": 390,
+                    "salePrice": 390,
+                    "qty": 1,
+                    "productPoint": null,
+                    "productImg": "1737535590359-706387957.jpg"
+                }
+            ]
+        }
+    ]
+}
