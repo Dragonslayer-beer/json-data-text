@@ -1,92 +1,91 @@
 {
-            "xref": "LSTK25020600000011",
-            "buyer": "ADMINBEER",
-            "transactionDate": "2025-02-06T09:22:16.000Z",
-            "paymentTypeId": "2",
-            "promotionId": 4,
-            "promotionCode": "F001",
-            "paymentType": "ເງິນໂອນ",
-            "cash": "0.00",
-            "cashcy": "LAK",
-            "transfer": "8573500.00",
-            "transferCcy": "LAK",
-            "rate": "650.00",
-            "total": 13190,
-            "seller": "ADMIN BEER",
-            "items": [
-                {
-                    "productId": 18,
-                    "originalPrice": 1800,
-                    "salePrice": 2000,
-                    "qty": 1,
-                    "total": 0
-           
-                },
-                {
-                    "productId": 20,
-                    "productName": "LOVE CORDESTA PLUS (60)",
-                    "originalPrice": 1800,
-                    "salePrice": 1800,
-                    "qty": 1,
-                    "total": 0
-                },
-                {
-                    "productId": 22,
-                    "productName": "LOVE COLLAGEN ເລີບ ຄໍລາເຈັນ",
-                    "originalPrice": 1800,
-                    "salePrice": 1800,
-                    "qty": 1,
-                    "total": 0
-                },
-                {
-                    "productId": 25,
-                    "productName": "Apple Love Drink",
-                    "originalPrice": 1800,
-                    "salePrice": 1800,
-                    "qty": 2,
-                    "total": 0
-                },
-                {
-                    "productId": 27,
-                    "productName": "COCO Boom",
-                    "originalPrice": 1800,
-                    "salePrice": 1800,
-                    "qty": 2,
-                    "total": 0
-                        
-                },
-                {
-                    "productId": 27,
-                    "productName": "COCO Boom",
-                   "originalPrice": 1800,
-                    "salePrice": 0,
-                    "qty": 1,
-                    "total": 0
-                },
-                {
-                    "productId": 28,
-                    "productName": "Love Coffee Arabica",
-                    "originalPrice": 390,
-                    "salePrice": 0,
-                    "qty": 1,
-                     "total": 0
-                },
-                {
-                    "productId": 28,
-                    "productName": "Love Coffee Arabica",
-                   "originalPrice": 390,
-                    "salePrice": 390,
-                    "qty": 1,
-                   "total": 0
-                },
-                {
-                    "productId": 29,
-                    "productName": "LOVE CORDESTA PLUS (30)",
-         
-                    "originalPrice": 900,
-                    "salePrice": 900,
-                    "qty": 2,
-                    "total": 0
-                }
-            ]
-        }
+  "xref": "LSTK25020600000011",
+  "buyer": "ADMINBEER",
+  "transactionDate": "2025-02-06T09:22:16.000Z",
+  "paymentTypeId": "2",
+  "promotionId": 4,
+  "promotionCode": "F001",
+  "paymentType": "ເງິນໂອນ",
+  "cash": "0.00",
+  "cashcy": "LAK",
+  "transfer": "8573500.00",
+  "transferCcy": "LAK",
+  "rate": "650.00",
+  "total": 13190,
+  "total_la": 13190,
+  "total_discount" : 1110,
+  "seller": "ADMIN BEER",
+  "items": [
+    {
+      "productId": 18,
+      "originalPrice": 1800,
+      "salePrice": 2000,
+      "qty": 1,
+      "total": 1110
+    },
+    {
+      "productId": 20,
+      "productName": "LOVE CORDESTA PLUS (60)",
+      "originalPrice": 1800,
+      "salePrice": 1800,
+      "qty": 1,
+      "total": 1110
+    },
+    {
+      "productId": 22,
+      "productName": "LOVE COLLAGEN ເລີບ ຄໍລາເຈັນ",
+      "originalPrice": 1800,
+      "salePrice": 1800,
+      "qty": 1,
+      "total": 1110
+    },
+    {
+      "productId": 25,
+      "productName": "Apple Love Drink",
+      "originalPrice": 1800,
+      "salePrice": 1800,
+      "qty": 2,
+      "total": 1110
+    },
+    {
+      "productId": 27,
+      "productName": "COCO Boom",
+      "originalPrice": 1800,
+      "salePrice": 1800,
+      "qty": 2,
+      "total": 1110
+    },
+    {
+      "productId": 27,
+      "productName": "COCO Boom",
+      "originalPrice": 1800,
+      "salePrice": 0,
+      "qty": 1,
+      "total": 1110
+    },
+    {
+      "productId": 28,
+      "productName": "Love Coffee Arabica",
+      "originalPrice": 390,
+      "salePrice": 0,
+      "qty": 1,
+      "total": 1110
+    },
+    {
+      "productId": 28,
+      "productName": "Love Coffee Arabica",
+      "originalPrice": 390,
+      "salePrice": 390,
+      "qty": 1,
+      "total": 1110
+    },
+    {
+      "productId": 29,
+      "productName": "LOVE CORDESTA PLUS (30)",
+      "originalPrice": 900,
+      "salePrice": 900,
+      "qty": 2,
+      "total": 1110
+    }
+  ]
+}
