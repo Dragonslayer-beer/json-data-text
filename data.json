@@ -1,5 +1,9 @@
 {
     "pageCursor": "",
+    "ntrsfusing_type": "test1",
+    "feeder_no": "test2",
+    "st_id" : "test3",
+    "branchId" : "test4",
     "data": [
         {
             "transformerId": "ໂຮງງານປະກອບລົດເສິນຫລົງ",
