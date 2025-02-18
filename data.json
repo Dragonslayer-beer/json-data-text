@@ -1,4 +1,6 @@
 {
+    "stationId" : "",
+    "feederId" : "",
     "data": [
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -11,7 +13,8 @@
             "latLong": "18.07595,102.29227",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+            "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -24,7 +27,8 @@
             "latLong": "18.07427,102.29281",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+            "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -37,7 +41,8 @@
             "latLong": "18.07324,102.29385",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+         "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -50,7 +55,8 @@
             "latLong": "18.07305,102.29457",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 1
+             "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -63,7 +69,8 @@
             "latLong": "18.07849,102.29355",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+           "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -76,7 +83,8 @@
             "latLong": "18.07818,102.29342",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+           "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -89,7 +97,8 @@
             "latLong": "18.07767,102.29323",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+            "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -102,7 +111,8 @@
             "latLong": "18.07718,102.29284",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 1
+          "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -115,7 +125,8 @@
             "latLong": "18.07660,102.29250",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+            "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -128,7 +139,8 @@
             "latLong": "18.07039,102.29310",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+          "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -141,7 +153,8 @@
             "latLong": "18.07297,102.29425",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+        "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -154,7 +167,8 @@
             "latLong": "18.07265,102.29459",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+         "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -167,7 +181,8 @@
             "latLong": "18.07195,102.29485",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+             "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -180,7 +195,8 @@
             "latLong": "18.07125,102.29512",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+          "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -193,7 +209,8 @@
             "latLong": "18.07065,102.29517",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+       "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -206,7 +223,8 @@
             "latLong": "18.07016,102.29510",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+           "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -219,7 +237,8 @@
             "latLong": "18.07526,102.29226",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+           "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -232,7 +251,8 @@
             "latLong": "18.07469,102.29260",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+         "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -245,7 +265,8 @@
             "latLong": "18.07420,102.29302",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+          "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -258,7 +279,8 @@
             "latLong": "18.07372,102.29343",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+          "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -271,7 +293,8 @@
             "latLong": "18.06968,102.29496",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+         "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -284,7 +307,8 @@
             "latLong": "18.07091,102.29494",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+      "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -297,7 +321,8 @@
             "latLong": "18.07082,102.29442",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+       "meterCount": 0,
+            "total" : 10
         },
         {
             "transformerName": "NXT.10.4.2.TR15.2",
@@ -310,7 +335,8 @@
             "latLong": "18.07047,102.29357",
             "noLatLong": "",
             "no2LatLong": "",
-            "meterCount": 0
+       "meterCount": 0,
+            "total" : 10
         }
     ]
 }
