@@ -1,4 +1,8 @@
 {
+    "st_id" : "",
+    "branchId" : "",
+    "feeder_no" : "",
+    "transformer_id" : "",
     "data": [
         {
             "_id": "67156b4738facdffe143eebf",
