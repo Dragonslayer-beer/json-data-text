@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "product_id": "18",
+            "product_code": "001",
+            "product_name": "LOVE SESAMIN (60)",
+            "total_received": 11256,
+            "total_sold": 140,
+            "total_before_adjust": 11116,
+            "total_after_adjust": 11116
+        },
+        {
+            "product_id": "19",
+            "product_code": "002",
+            "product_name": "LOVE DA",
+            "total_received": 3444,
+            "total_sold": 48,
+            "total_before_adjust": 3396,
+            "total_after_adjust": 3396
+        },
+        {
+            "product_id": "20",
+            "product_code": "003",
+            "product_name": "LOVE CORDESTA PLUS (60)",
+            "total_received": 8344,
+            "total_sold": 45,
+            "total_before_adjust": 8299,
+            "total_after_adjust": 8299
+        },
+        {
+            "product_id": "21",
+            "product_code": "004",
+            "product_name": "LOVE KING GOLD",
+            "total_received": 80808,
+            "total_sold": 141,
+            "total_before_adjust": 80667,
+            "total_after_adjust": 80667
+        },
+        {
+            "product_id": "24",
+            "product_code": "005",
+            "product_name": "Love Pine Needle oil",
+            "total_received": 95489,
+            "total_sold": 72,
+            "total_before_adjust": 95417,
+            "total_after_adjust": 95417
+        },
+        {
+            "product_id": "23",
+            "product_code": "006",
+            "product_name": "LOVE ORYZA ອໍລິຊ່າ",
+            "total_received": 36233,
+            "total_sold": 46,
+            "total_before_adjust": 36187,
+            "total_after_adjust": 36187
+        },
+        {
+            "product_id": "26",
+            "product_code": "007",
+            "product_name": "Love stk coffee",
+            "total_received": 5010,
+            "total_sold": 24,
+            "total_before_adjust": 4986,
+            "total_after_adjust": 4986
+        },
+        {
+            "product_id": "27",
+            "product_code": "008",
+            "product_name": "COCO Boom",
+            "total_received": 9909,
+            "total_sold": 126,
+            "total_before_adjust": 9783,
+            "total_after_adjust": 9783
+        },
+        {
+            "product_id": "28",
+            "product_code": "009",
+            "product_name": "Love Coffee Arabica",
+            "total_received": 8046,
+            "total_sold": 48,
+            "total_before_adjust": 7998,
+            "total_after_adjust": 7998
+        },
+        {
+            "product_id": "22",
+            "product_code": "010",
+            "product_name": "LOVE COLLAGEN ເລີບ ຄໍລາເຈັນ",
+            "total_received": 25479,
+            "total_sold": 60,
+            "total_before_adjust": 25419,
+            "total_after_adjust": 25419
+        },
+        {
+            "product_id": "25",
+            "product_code": "011",
+            "product_name": "Apple Love Drink",
+            "total_received": 19300,
+            "total_sold": 162,
+            "total_before_adjust": 19138,
+            "total_after_adjust": 19138
+        },
+        {
+            "product_id": "29",
+            "product_code": "111",
+            "product_name": "LOVE CORDESTA PLUS (30)",
+            "total_received": 100,
+            "total_sold": 0,
+            "total_before_adjust": 100,
+            "total_after_adjust": 100
+        },
+        {
+            "product_id": "30",
+            "product_code": "112",
+            "product_name": "LOVE DA (30)",
+            "total_received": 100,
+            "total_sold": 0,
+            "total_before_adjust": 100,
+            "total_after_adjust": 100
+        },
+        {
+            "product_id": "17",
+            "product_code": "CODETEST001",
+            "product_name": "ສິນຄ້າທົດລອງ",
+            "total_received": 9999,
+            "total_sold": 0,
+            "total_before_adjust": 9999,
+            "total_after_adjust": 9999
+        }
+    ]
+}
