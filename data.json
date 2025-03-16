@@ -1,32 +1,19 @@
 {
     "data": [
         {
-            "documentId": "00123123",
-            "documentDate": "2021-12-14T00:00:00Z",
-            "approvedBy": "ອະນຸມັດສຸກເສີນ",
-            "repairDate": "2021-12-14T00:00:00Z",
-            "amountOfDays": 3,
-            "budget": 300000,
-            "stationName": "ສະຖານີ ໂສກປ່າຫຼວງ ນວ1",
-            "feederId": "MSS.1.1",
-            "remark": "sdfac",
-            "lineSize": "35",
-            "lineType": "NYY",
-            "createdAt": "2021-12-15T21:50:06Z"
-        },
-        {
-            "documentId": "32322223",
-            "documentDate": "2022-02-02T00:00:00Z",
-            "approvedBy": "ອະນຸມັດສຸກເສີນ",
-            "repairDate": "2022-02-02T00:00:00Z",
-            "amountOfDays": 3,
-            "budget": 13200000,
-            "stationName": "ສະຖານີ ໂສກປ່າຫຼວງ ນວ1",
-            "feederId": "MSS.1.1",
-            "remark": "ກກກ",
-            "lineSize": "50",
-            "lineType": "SAC",
-            "createdAt": "2022-02-06T08:23:03Z"
+            "documentId": "soun",
+            "documentDate": "2025-01-24T00:00:00Z",
+            "approvedBy": "boss",
+            "provinceName": "ນະຄອນຫຼວງວຽງຈັນ",
+            "provinceNameEn": "Vientiane Capital",
+            "districtName": "ນາຊາຍທອງ",
+            "districtNameEn": "Naxaythong",
+            "stationName": "ສະຖານີນາຊາຍທອງ",
+            "feederId": "MSS10.1",
+            "transferDate": "2025-01-24T00:00:00Z",
+            "transferType": "none",
+            "transferRem": "noone",
+            "newTransformerNo": "123"
         }
     ]
 }
