@@ -1,19 +1,17 @@
 {
-    "data": [
-        {
-            "documentId": "soun",
-            "documentDate": "2025-01-24T00:00:00Z",
-            "approvedBy": "boss",
-            "provinceName": "ນະຄອນຫຼວງວຽງຈັນ",
-            "provinceNameEn": "Vientiane Capital",
-            "districtName": "ນາຊາຍທອງ",
-            "districtNameEn": "Naxaythong",
-            "stationName": "ສະຖານີນາຊາຍທອງ",
-            "feederId": "MSS10.1",
-            "transferDate": "2025-01-24T00:00:00Z",
-            "transferType": "none",
-            "transferRem": "noone",
-            "newTransformerNo": "123"
-        }
-    ]
+  "startDate": "2022-02",
+  "data": [
+    {
+      "station_code" : "XXXX",
+      "station_name" : "XXXX",
+      "feeder" : "XXXX",
+      "total_transformer" : 0,
+      "total_transformer_size" : 0,
+      "total_meter" : 0,
+      "total_nenergy" : 0,
+      "total_tsfenergy" : 0,
+      "total_tsffeederEnergy" : 0
+    }
+  ]
+  
 }
