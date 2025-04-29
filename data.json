@@ -1,27 +1,20 @@
 {
     "data": [
         {
-            "custName": "John Doe",
-            "companyName": "ລາວ ໂທລະຄົມ",
-            "companyNameEn": "Lao Telecom",
-            "villageName": "nakham",
-            "districtCode": "D123",
-            "provinceId": "664abcf9f6410a9de86c947b",
-            "routeNo": "R456",
-            "branchCode": "664abcf6f6410a9de86c92c6",
-            "lineNoByEdl": "LN789",
-            "baseLocation": "location1",
-            "eqTypeId": "664abcf6f6410a9de86c92d0",
-            "startPost22Id": "SP111",
-            "endPost22Id": "EP222",
-            "startPost04Id": "SP333",
-            "endPost04Id": "EP444",
-            "amtPost8m": 5,
-            "amtPost12m": 10,
-            "amtPost14m": 3,
-            "amtPost16m": 7,
-            "lineTypeId": "664abcf6f6410a9de86c92f6",
-            "createdAt": "2025-02-10T17:00:00Z"
+            "documentId": 2,
+            "failureDate": "2022-03-18T00:00:00Z",
+            "stationName": "ສະຖານີທ່າງ່ອນ",
+            "feederId": "MSS:8.1",
+            "failureTime": "0000-01-01T13:00:00Z",
+            "failureReason": "ອຸປະກອນ: Equipment<",
+            "failureTimes": 1,
+            "lostedTime": 211,
+            "loadPMW": 1,
+            "loadQMVAR": 1,
+            "loadSMVA": 1,
+            "totalCustomer": 627,
+            "customerTab": 1,
+            "createdAt": "2022-03-17T10:09:43Z"
         }
     ]
 }
