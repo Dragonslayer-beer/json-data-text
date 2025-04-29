@@ -1,20 +1,40 @@
 {
     "data": [
         {
-            "documentId": 2,
-            "failureDate": "2022-03-18T00:00:00Z",
-            "stationName": "ສະຖານີທ່າງ່ອນ",
-            "feederId": "MSS:8.1",
-            "failureTime": "0000-01-01T13:00:00Z",
-            "failureReason": "ອຸປະກອນ: Equipment<",
+            "documentId": 0,
+            "failureDate": "2024-11-21T00:00:00Z",
+            "stationName": "ສະຖານີນາຊາຍທອງ",
+            "feederId": "MSS10.6",
+            "transformerId": "B.PHONETHONG",
+            "feeder04Names": "F1,F2,F3",
+            "failureTime": "0000-01-01T01:00:00Z",
+            "failureReason": "ຕົ້ນໄມ້: Tree",
             "failureTimes": 1,
-            "lostedTime": 211,
-            "loadPMW": 1,
-            "loadQMVAR": 1,
-            "loadSMVA": 1,
-            "totalCustomer": 627,
-            "customerTab": 1,
-            "createdAt": "2022-03-17T10:09:43Z"
+            "loadPMW": 10,
+            "loadQMVAR": 10,
+            "loadSMVA": 100,
+            "lostedTime": 10,
+            "totalCustomer": 100,
+            "customerTab": 10,
+            "createdAt": "2024-11-21T07:49:25.557Z"
+        },
+        {
+            "documentId": 0,
+            "failureDate": "2024-11-22T00:00:00Z",
+            "stationName": "ສະຖານີນາຊາຍທອງ",
+            "feederId": "MSS10.6",
+            "transformerId": "B.PHONETHONG",
+            "feeder04Names": "F1,F2,F3",
+            "failureTime": "0000-01-01T02:00:00Z",
+            "failureReason": "ອຸບັດຕິເຫດ: Traffic accident",
+            "failureTimes": 1,
+            "loadPMW": 10,
+            "loadQMVAR": 10,
+            "loadSMVA": 10,
+            "lostedTime": 120,
+            "totalCustomer": 100,
+            "customerTab": 10,
+            "createdAt": "2024-11-21T08:10:53.556Z"
         }
     ]
 }
