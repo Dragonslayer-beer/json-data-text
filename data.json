@@ -1,60 +1,28 @@
 {
     "data": [
         {
-            "withdraw_request_id": "c6011b77-2e92-43f4-9bc9-8af06bd71b15",
-            "title": "test",
-            "transfer_img": null,
-            "withdraw_count": 500,
-            "status": "pending",
-            "created_by_id": "1b73ec66-79a1-4937-b51b-516503eb71c0",
-            "approved_by_id": null,
-            "organization_id": "0c4cdd4d-51a0-44c8-b803-7586b798293c",
-            "description": null,
-            "is_active": true,
-            "created_at": "2025-07-02T08:58:58.062Z",
-            "updated_at": null,
-            "deleted_at": null,
-            "created_by": {
-                "member_id": "1b73ec66-79a1-4937-b51b-516503eb71c0",
-                "fbuid": "tnYjD92JpcbcAQn2BHKeqhMia0t1",
-                "user_id": "002",
-                "room_id": "222",
-                "profile": "px/z75kcr1751105956580.jpg",
-                "nick_name": "ทดลอง002",
-                "full_name": "ทดลอง002",
-                "secu_name": "ทดลอง002",
-                "dob": "2025-06-27T00:00:00.000Z",
-                "province": "1",
-                "country": "ไทย",
-                "subdistrict": "1001",
-                "zip_code": "100104",
-                "email": "002@gmail.com",
-                "line": "@002",
-                "phone": "+66002",
-                "refer_id": "",
-                "card_number": "002",
-                "amount": 0,
-                "bank_account_id": "356de137-f364-414a-930b-4675c8fa2879",
-                "card_with_profile_img": "px/86tdwc1751105956638.png",
-                "vj_active": false,
-                "sapphipe": false,
-                "group_vj": false,
-                "meeting_policy_app": false,
-                "meeting_policy_px": false,
-                "train_ten_step": false,
-                "add_line_vj": false,
-                "bonus_time": false,
-                "role": "Member",
-                "status": "success",
-                "approved_by_id": null,
-                "is_active": true,
-                "created_at": "2025-06-28T10:19:17.538Z",
-                "updated_at": null,
-                "deleted_at": null
-            }
+            "xref": "25070246",
+            "date": "2025-07-09 15:40:38",
+            "items": [
+                {
+                    "ul": "xxxxxxxx",
+                    "accountType": "xxxxxxx",
+                    "item": "ເຄື່ອງໃຊ້ໂຮງງານ",
+                       "qty": 1,
+                    "lak": 500000,
+                    "bath": 0,
+                    "dollar": 0
+                },
+                {
+                    "ul": "xxxxxxxx",
+                    "accountType": "xxxxxxx",
+                    "item": "ຊື້ເຄື່ອງສຳອາງ",
+                       "qty": 1,
+                    "lak": 0,
+                    "bath": 3000,
+                    "dollar": 0
+                }
+            ]
         }
-    ],
-    "status": 200,
-    "error": false,
-    "message": "Get All Withdraw Request Successfully"
+    ]
 }
