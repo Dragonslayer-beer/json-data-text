@@ -1,6 +1,7 @@
 {
     "url_image" : "test",
     "address" : "test",
+      "rate" : 670,
     "data": [
         {
             "xref": "25070246",
